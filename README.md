@@ -235,9 +235,7 @@ test@ubuntu:~/monty$
 
 Ubuntu 14.04, Emacs, Vim, and C language.
 
-## Author
 
-Jhoan Stiven Zamora Caicedo
 
 
 ## bf Folder
